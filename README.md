@@ -5,7 +5,7 @@
 I'm  passionate web developer with a knack for crafting exceptional digital experiences. When I'm not immersed in code, you can find me curating and sharing fascinating tech content on my Facebook page, where I run a tech brand. Join me on this coding journey, and let's learn amazing tricks and tips💻✨
 
 ##  Tools and Languages  
-![Typing SVG](pngwing.com.png)
+<img src="pngwing.com.png" width="50" height="50">
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AkinsolaTemidayo)  
