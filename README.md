@@ -12,6 +12,4 @@ I'm  passionate web developer with a knack for crafting exceptional digital expe
 [![Email:](https://img.shields.io/badge/Email-temidayoakinsola100%40gmail.com-blue)](mailto:temidayoakinsola100@gmail.com)<br>
 [![Phone:](https://img.shields.io/badge/Phone-%2B2349137712362-brightgreen)](#)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkinsolaTemidayo&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AkinsolaTemidayo)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkinsolaTemidayo&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=AkinsolaTemidayo)  
